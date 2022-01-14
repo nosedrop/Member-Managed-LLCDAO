@@ -12,8 +12,8 @@ When you go to wyoming secertary of state and search the DAOs that have been pub
 most ppl have doxxed themselves. You probably want to limit your dox surface to things 
 that arent in the public record. I talked to my registered agent and altho they sign the
 documents and their website requires a person to be listed as the managing member, 
-I was able to put them down as the managing memeber through their UI, but Wyoming r
-ecognized the contract address  
+I was able to put them down as the managing memeber through their UI, but Wyoming 
+recognized the contract address  
 
 ## 2) Operating Agreement
 - Theres lots of ways to go about this and you definitely should consult a lawyer
